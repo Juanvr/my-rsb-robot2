@@ -1,0 +1,9 @@
+{
+  "urlData": "https://robotsparebinindustries.com/orders.csv",
+  "urlOrder": "2https://robotsparebinindustries.com/#/robot-order", 
+  "pathData": "orders.csv",
+  "receiptsOutputDir": ".\\output\\receipts",
+  "receiptsOutputZip": ".\\output\\receipts.zip",
+  "vaultName": "rsb"
+
+}
